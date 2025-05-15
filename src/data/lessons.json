@@ -1,0 +1,92 @@
+[
+  {
+    "id": "lesson1",
+    "title": "Əllərini necə düzgün yumalı?",
+    "description": "Bu dərsdə uşaqlara əlləri düzgün yumağın addımlarını öyrədirik.",
+    "category": "gigiyena",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80",
+    "videoUrl": "https://example.com/videos/hands-washing.mp4",
+    "duration": 5,
+    "difficulty": "easy"
+  },
+  {
+    "id": "lesson2",
+    "title": "Yol Təhlükəsizliyi",
+    "description": "Bu dərsdə uşaqlar yol hərəkəti qaydaları və təhlükəsizlik prinsipləri haqqında öyrənəcəklər.",
+    "category": "təhlükəsizlik",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=400&q=80",
+    "videoUrl": "https://example.com/videos/road-safety.mp4",
+    "duration": 7,
+    "difficulty": "medium"
+  },
+  {
+    "id": "lesson3",
+    "title": "Salamlaşmağı öyrənirik",
+    "description": "Bu dərsdə uşaqlar müxtəlif insanlarla necə salamlaşmağı və tanışlıq etiketini öyrənəcəklər.",
+    "category": "sosial",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=400&q=80",
+    "videoUrl": "https://example.com/videos/greetings.mp4",
+    "duration": 6,
+    "difficulty": "easy"
+  },
+  {
+    "id": "lesson4",
+    "title": "Diş fırçalama qaydaları",
+    "description": "Bu dərsdə uşaqlar dişləri düzgün fırçalamağın vacibliyini və metodlarını öyrənəcəklər.",
+    "category": "gigiyena",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1503676382389-4809596d5290?auto=format&fit=crop&w=400&q=80",
+    "videoUrl": "https://example.com/videos/teeth-brushing.mp4",
+    "duration": 5,
+    "difficulty": "easy"
+  },
+  {
+    "id": "lesson5",
+    "title": "Ev təhlükəsizliyi",
+    "description": "Bu dərsdə uşaqlar evdə təhlükəli ola biləcək əşyaları və vəziyyətləri tanımağı öyrənəcəklər.",
+    "category": "təhlükəsizlik",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?auto=format&fit=crop&w=400&q=80",
+    "videoUrl": "https://example.com/videos/home-safety.mp4",
+    "duration": 8,
+    "difficulty": "medium"
+  },
+  {
+    "id": "lesson6",
+    "title": "Növbə gözləmək",
+    "description": "Bu dərsdə uşaqlar gündəlik situasiyalarda növbə gözləmək qaydalarını və əhəmiyyətini öyrənəcəklər.",
+    "category": "sosial",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=400&q=80",
+    "videoUrl": "https://example.com/videos/waiting-turn.mp4",
+    "duration": 6,
+    "difficulty": "medium"
+  },
+  {
+    "id": "lesson7",
+    "title": "Emosiyaları tanımaq",
+    "description": "Bu dərsdə uşaqlar əsas emosiyaları tanımağı və öz hisslərini ifadə etməyi öyrənəcəklər.",
+    "category": "sosial",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?auto=format&fit=crop&w=400&q=80",
+    "videoUrl": "https://example.com/videos/emotions.mp4",
+    "duration": 10,
+    "difficulty": "medium"
+  },
+  {
+    "id": "lesson8",
+    "title": "Kömək istəmək",
+    "description": "Bu dərsdə uşaqlar ehtiyac olduqda necə kömək istəməyi və haradan kömək ala biləcəklərini öyrənəcəklər.",
+    "category": "təhlükəsizlik",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80",
+    "videoUrl": "https://example.com/videos/asking-help.mp4",
+    "duration": 7,
+    "difficulty": "medium"
+  },
+  {
+    "id": "lesson9",
+    "title": "Qida gigiyenası",
+    "description": "Bu dərsdə uşaqlar yeməkdən əvvəl və sonra gigiyena qaydaları haqqında öyrənəcəklər.",
+    "category": "gigiyena",
+    "thumbnailUrl": "https://foodinfo.az/uploads/photos/original/2023/5/21282082966450a7298cbe6.png",
+    "videoUrl": "https://example.com/videos/food-hygiene.mp4",
+    "duration": 8,
+    "difficulty": "easy"
+  }
+] 

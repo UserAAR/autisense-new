@@ -1,0 +1,87 @@
+1. Layihə Strukturu
+Bütün React komponentləri JSX formatında olmalıdır
+Fayllar aşağıdakı struktura uyğun təşkil edilməlidir:
+src/
+├── assets/
+│   ├── images/
+│   ├── animations/
+│   └── sounds/
+├── components/
+│   ├── common/
+│   ├── layout/
+│   ├── auth/
+│   ├── parent/
+│   ├── child/
+│   └── specialist/
+├── pages/
+├── data/
+├── services/
+└── utils/
+
+2. Kod Formatlaması
+Indentation: 2 boşluq
+Maksimum sətir uzunluğu: 80 simvol
+Nöqtəli vergüllər (semicolons) məcburidir
+Faylların sonunda boş sətir olmalıdır
+Bütün string-lər tək dırnaq işarəsi (') ilə əhatə olunmalıdır
+JSX atributları üçün ikili dırnaq işarəsi (") istifadə edin
+
+
+3. Adlandırma Konvensiyaları
+Komponentlər: PascalCase (Button.jsx, UserProfile.jsx)
+Funksiyalar və dəyişənlər: camelCase (getUserData, isLoading)
+Konstantlar: UPPER_SNAKE_CASE (API_URL, DEFAULT_TIMEOUT)
+Fayl adları komponentlə eyni olmalıdır (Button.jsx komponentinin adı Button olmalıdır)
+CSS-də BEM (Block Element Modifier) metodologiyası istifadə edin
+
+4. İmport/Export Qaydaları
+Komponentlər default export olmalıdır
+Utilitilər və yardımçı funksiyalar named export olmalıdır
+İmportlar aşağıdakı sıralamaya uyğun qruplaşdırılmalıdır:
+React və digər external kitabxanalar
+Komponentlər
+Utilities və servislər
+Stillər və asset-lər
+Datalar və konstantlar
+
+5. Komponent Strukturu
+Hər bir komponent bir tək məsuliyyətə malik olmalıdır (Single Responsibility)
+Funksional komponentlər və React Hooks istifadə edin
+Props destrükturlaşdırma ilə alınmalıdır
+PropTypes və ya TypeScript ilə type checking təmin edin
+Böyük komponentləri daha kiçik hissələrə bölün
+
+6. State İdarəetməsi
+Contextlər məntiqi qruplara görə təşkil edilməlidir (AuthContext, UserContext, etc.)
+Custom hooklardan istifadə edin və /hooks qovluğunda saxlayın
+Global state-i əsas kontekstlərdə saxlayın
+JSON data faylları /data qovluğunda yerləşdirilməlidir
+
+7. AI API İnteqrasiyası
+API sorğuları ayrı servis funksiyalarında olmalıdır
+Try-catch blokları ilə xəta işləmə tətbiq edin
+API response-ların cache-lənməsi üçün React Query istifadə edin
+
+8. Stil və Dizayn
+Tailwind CSS classları komponentlərin əvvəlində qruplaşdırılmalıdır
+Media sorğuları Tailwind breakpoint-lərinə uyğun olmalıdır (sm, md, lg, xl)
+Framer Motion animasiyaları ayrı obyektlərdə təşvir edilməlidir
+Reusable stil komponentləri /components/common qovluğunda olmalıdır
+
+9. Performans
+React.memo ilə təkrar renderləri minimuma endirin
+Böyük listlər üçün virtualization (react-virtualized, react-window) istifadə edin
+Şəkillər və animasiyalar optimize edilməlidir
+Bundle size-i kiçiltmək üçün lazy loading istifadə edin
+
+10. Təhlükəsizlik
+Input-larda validation tətbiq edin
+User-generated content sanitize edilməlidir
+AI API-a göndərilən promptlar yoxlanılmalıdır
+Sensitiv data güncəlləmələri təsdiq edilməlidir
+
+11. Layihəyə Spesifik Qaydalar
+AI analiz sistemi üçün olan kodlar services/ai qovluğunda olmalıdır
+Uşaq UI-ı üçün olan komponentlər sadə və asan anlaşılan olmalıdır
+Bütün interaktiv elementlər həm mouse, həm də klaviatura ilə işləməlidir
+Tamamlanmış dərs və test nəticələri localStorage-də müvəqqəti saxlanmalıdır

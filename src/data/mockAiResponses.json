@@ -1,0 +1,111 @@
+{
+  "analysis": {
+    "child1": {
+      "summary": "Əlinin öyrənmə tərzində vizual anlayış güclüdür. Test nəticələrinə əsasən gigiyena ilə bağlı mövzularda yüksək nəticələr göstərir, amma sosial bacarıqlar sahəsində daha çox dəstəyə ehtiyacı var. Diqqət müddəti orta səviyyədədir və maraqlı mövzularda daha yaxşı fokuslanır.",
+      "strengths": [
+        "Vizual öyrənmə qabiliyyəti",
+        "Gigiyena və özünə qulluq bacarıqları",
+        "Təhlükəsizlik ilə bağlı anlayış",
+        "Əşyaları kateqoriyalara ayırmada yaxşıdır"
+      ],
+      "weaknesses": [
+        "Sosial qarşılıqlı əlaqələrdə çətinlik çəkir",
+        "Emosiyaları tanımada inkişaf etməlidir",
+        "Bəzən diqqəti dağılır"
+      ]
+    },
+    "child2": {
+      "summary": "Aynur kinestetik öyrənən olaraq hərəkət və toxunma ilə öyrəndikdə daha yaxşı nəticələr göstərir. Sosial bacarıqlar və emosiyaları tanımaqda çox yaxşıdır. Motor bacarıqların inkişafında daha çox dəstəyə ehtiyacı var.",
+      "strengths": [
+        "Sosial qarşılıqlı təsir",
+        "Emosional zəka",
+        "Yaradıcı düşüncə",
+        "Əməkdaşlıq bacarıqları"
+      ],
+      "weaknesses": [
+        "İncə motor bacarıqları",
+        "Ardıcıl tapşırıqları izləmək",
+        "Vizual-məkansal anlayış"
+      ]
+    },
+    "child3": {
+      "summary": "Tural, eşidilən məlumatı emal etməkdə güclüdür və detallara diqqət yetirə bilir. Texniki və elmi mövzuları anlamaqda istedadlıdır. Diqqət müddəti yaşına görə yüksəkdir. Sosial vəziyyətləri interpretasiya etməkdə və empatiya qurmaqda dəstəyə ehtiyacı var.",
+      "strengths": [
+        "İşitməyə əsaslanan öyrənmə",
+        "Texniki və elmi anlayış",
+        "Yaxşı diqqət müddəti",
+        "Nümunələri tanımaq bacarığı"
+      ],
+      "weaknesses": [
+        "Sosial işarələri başa düşmək",
+        "Empatiya",
+        "Dəyişikliklərə adaptasiya"
+      ]
+    },
+    "default": {
+      "summary": "Bu uşaq autizm spektrinin xüsusiyyətləri ilə uyğun gəlir və fərdi öyrənmə tərzi var. Test nəticələri müxtəlif sahələrdə fərqli güc və çətinliklər göstərir. Uşağın maraqlarına əsaslanaraq öyrənmə təcrübəsinin fərdiləşdirilməsi tövsiyə olunur.",
+      "strengths": [
+        "Sistemli düşüncə",
+        "Detallara diqqət",
+        "Xüsusi maraq sahələrində yaxşı fokuslanma",
+        "Vizual informasiyanı emal etmə"
+      ],
+      "weaknesses": [
+        "Sosial işarələri başa düşmək",
+        "Elastiklik və dəyişikliklərə uyğunlaşma",
+        "Ünsiyyət bacarıqları"
+      ]
+    }
+  },
+  "recommendations": {
+    "social": {
+      "recommendations": [
+        "Hər gün sosial bacarıqların təcrübəsi üçün qısa, strukturlaşdırılmış oyun sessiyaları təşkil edin.",
+        "Rol oynamaq fəaliyyətlərindən istifadə edərək müxtəlif sosial vəziyyətləri simulyasiya edin.",
+        "Emosiyaları tanımağa kömək edən kartlar və oyunlardan istifadə edin.",
+        "Uşağınızla birlikdə platformadakı 'Emosiyaları tanımaq' və 'Salamlaşmağı öyrənirik' dərslərinə baxın."
+      ]
+    },
+    "attention": {
+      "recommendations": [
+        "Öyrənmə vaxtını qısa (15-20 dəqiqə), amma mütəmadi sessiyalara bölün.",
+        "Fiziki fəaliyyətləri öyrənmə ilə birləşdirin - hərəkət etmək diqqəti artıra bilər.",
+        "Vizual ipuçları və xatırlatmalardan istifadə edin.",
+        "Diqqəti təmrinlər edən oyunlar və fəaliyyətlər təqdim edin."
+      ]
+    },
+    "motor": {
+      "recommendations": [
+        "İncə motor bacarıqları üçün plastilin, muncuq düzmə və konstruktorlarla məşq edin.",
+        "Kağız kəsmə, yapışdırma kimi əl işlərini təşviq edin.",
+        "Koordinasiya və balansı inkişaf etdirən oyunlar oynayın.",
+        "Hər gün 15-20 dəqiqə xüsusi motor bacarıqları inkişaf etdirən tapşırıqlar verin."
+      ]
+    },
+    "default": {
+      "recommendations": [
+        "Uşağınızın öyrənmə üslubuna uyğun materiallarla təmin edin - vizual, işitmə və ya kinestetik.",
+        "Öyrənmə prosesini uşağın xüsusi maraqları ilə əlaqələndirin.",
+        "Gözlənilən dəyişiklikləri əvvəlcədən bildirmək üçün vizual qrafiklərdən istifadə edin.",
+        "Sistematik və ardıcıl öyrənmə yanaşmasından istifadə edin."
+      ]
+    }
+  },
+  "chatbot": {
+    "aggression": {
+      "answer": "Autizmli uşaqlarda aqressiv davranışlar adətən ünsiyyət çətinliklərindən, sensorial həddindən artıq yüklənmədən və ya frustrasiyadan qaynaqlanır. Bunları sınaya bilərsiniz: 1) Davranışın əsasında olan səbəbi müəyyənləşdirin - nə onu tetikləyir? 2) Sakit bir mühit yaradın və sensorial stimulları azaldın. 3) Alternativ ünsiyyət üsulları öyrədin ki, ehtiyaclarını ifadə edə bilsin. 4) Proaktiv olun və potensial tetikleyiciləri əvvəlcədən həll edin. 5) Ardıcıl olmağa çalışın və sakit davranışları mükafatlandırın. Davamlı aqressiya halında, mütəxəssis dəstəyi almaq önəmlidir."
+    },
+    "food": {
+      "answer": "Autizmli uşaqlarda qida seçiciliyi çox rastlanır və buna sensorial həssaslıq, yeni şeylərdən qorxma və rutinin pozulması kimi faktorlar səbəb ola bilər. Yardımçı strategiyalar: 1) Yeməkləri vizual olaraq təqdim edin və yeni qidaları tanış olanlarla birlikdə verin. 2) Kiçik addımlarla irəliləyin - əvvəlcə yeni qidanı süfrəyə qoymaqla başlayın, sonra toxunmaq, qoxlamaq və nəhayət dadmağa keçin. 3) Qida araşdırmasını oyun şəklində təşkil edin, məcbur etməyin. 4) Müsbət modelləmə - ailənin digər üzvlərinin həmin yeməkləri yediyini göstərin. 5) Ardıcıl olun, amma məcbur etməyin. Nəzarətdən kənara çıxan qida məhdudiyyətləri üçün qidalanma mütəxəssisi ilə məsləhətləşin."
+    },
+    "sleep": {
+      "answer": "Autizmli uşaqlarda yuxu problemləri tez-tez rast gəlinir. Bunlar yuxuya getmə çətinliyi, gecə oyanmaları və ya erkən oyanmalar şəklində ola bilər. Kömək edə biləcək strategiyalar: 1) Ardıcıl yatmaq rutini yaradın - hər gün eyni vaxtda, eyni fəaliyyətlərlə. 2) Yataq otağını sakit, qaranlıq və rahat edin. 3) Elektron cihazların istifadəsini yatmazdan ən azı 1 saat əvvəl dayandırın. 4) Gündəlik fiziki fəaliyyətləri təmin edin, amma yatmazdan əvvəl yox. 5) Melatonin kimi əlavələr bəzi uşaqlar üçün faydalı ola bilər, amma mütləq həkimlə məsləhətləşin. 6) Stres və narahatlığı azaldan texnikalardan istifadə edin, məsələn ağırlıq adyalları. Uzunmüddətli yuxu problemləri üçün mütəxəssis yardımı alın."
+    },
+    "school": {
+      "answer": "Autizmli uşaqların təhsili fərdi ehtiyaclara əsaslanmalıdır. Uğur üçün tövsiyələr: 1) Məktəblə güclü əməkdaşlıq qurun və Fərdi Təhsil Planı (IEP) yaradılmasını istəyin. 2) Müəllimlə mütəmadi ünsiyyət qurun və uşağınızın ehtiyacları və güclü tərəfləri haqqında məlumat verin. 3) Vizual cədvəllər və sosial hekayələrdən istifadə edin ki, uşaq məktəb rutininə hazırlana bilsin. 4) Məktəbdən əvvəl və sonra sakit, təşkil olunmuş vaxt təmin edin. 5) Uşağınızın stimulasiyadan qaçması üçün sakit bir yer təyin edilməsini istəyin. 6) Onların xüsusi maraqlarını təhsil prosesində istifadə etməyi təklif edin. Lazım gəldikdə resurs otağı və ya xüsusi təhsil dəstəyi kimi əlavə resurslar tələb edin."
+    },
+    "default": {
+      "answer": "Autizmli uşaqların tərbiyə edilməsi həm mükafatlandırıcı, həm də çətin ola bilər. Ən mühüm strategiyalar bunlardır: 1) Ardıcıl rutin və struktur təmin edin. 2) Uşağınızın ünsiyyət üslubunu öyrənin və inkişaf etdirin. 3) Sensorial ehtiyaclarını başa düşün və uyğunlaşdır. 4) Xüsusi maraqları motivasiya və öyrənmə üçün istifadə edin. 5) Kiçik uğurları da qeyd edin və tərifləyin. 6) Özünüzə qulluq etməyi unutmayın - dəstək qrupları və vaxt-aşırı fasilə almaq önəmlidir. Hər uşaq fərqlidir, buna görə də öz uşağınız üçün nəyin işlədiyini kəşf etməyə çalışın."
+    }
+  }
+} 

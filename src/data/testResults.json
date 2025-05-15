@@ -1,0 +1,101 @@
+[
+  {
+    "id": "result1",
+    "childId": "child1",
+    "lessonId": "lesson1",
+    "score": 85,
+    "completed": true,
+    "timeTaken": 320,
+    "completedAt": "2023-07-15T09:45:22Z"
+  },
+  {
+    "id": "result2",
+    "childId": "child1",
+    "lessonId": "lesson2",
+    "score": 75,
+    "completed": true,
+    "timeTaken": 450,
+    "completedAt": "2023-07-17T14:20:10Z"
+  },
+  {
+    "id": "result3",
+    "childId": "child1",
+    "lessonId": "lesson3",
+    "score": 60,
+    "completed": true,
+    "timeTaken": 380,
+    "completedAt": "2023-07-20T11:05:33Z"
+  },
+  {
+    "id": "result4",
+    "childId": "child1",
+    "lessonId": "lesson4",
+    "score": 90,
+    "completed": true,
+    "timeTaken": 290,
+    "completedAt": "2023-07-25T10:15:42Z"
+  },
+  {
+    "id": "result5",
+    "childId": "child2",
+    "lessonId": "lesson1",
+    "score": 80,
+    "completed": true,
+    "timeTaken": 350,
+    "completedAt": "2023-07-16T15:30:18Z"
+  },
+  {
+    "id": "result6",
+    "childId": "child2",
+    "lessonId": "lesson3",
+    "score": 95,
+    "completed": true,
+    "timeTaken": 310,
+    "completedAt": "2023-07-18T16:45:20Z"
+  },
+  {
+    "id": "result7",
+    "childId": "child2",
+    "lessonId": "lesson7",
+    "score": 85,
+    "completed": true,
+    "timeTaken": 580,
+    "completedAt": "2023-07-22T14:20:05Z"
+  },
+  {
+    "id": "result8",
+    "childId": "child3",
+    "lessonId": "lesson2",
+    "score": 70,
+    "completed": true,
+    "timeTaken": 420,
+    "completedAt": "2023-07-18T09:10:15Z"
+  },
+  {
+    "id": "result9",
+    "childId": "child3",
+    "lessonId": "lesson5",
+    "score": 85,
+    "completed": true,
+    "timeTaken": 480,
+    "completedAt": "2023-07-19T10:35:40Z"
+  },
+  {
+    "id": "result10",
+    "childId": "child3",
+    "lessonId": "lesson8",
+    "score": 75,
+    "completed": true,
+    "timeTaken": 420,
+    "completedAt": "2023-07-21T11:25:30Z"
+  },
+  {
+    "id": "result11",
+    "childId": "child3",
+    "lessonId": "lesson9",
+    "score": 90,
+    "completed": true,
+    "timeTaken": 450,
+    "completedAt": "2023-07-24T14:30:22Z"
+  }
+] 

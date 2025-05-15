@@ -1,0 +1,213 @@
+[
+  {
+    "id": "specialist1",
+    "name": "Dr. Leyla Məmmədova",
+    "title": "Klinik Psixoloq",
+    "specialization": "Autizm Spektr Pozuntuları",
+    "experience": 12,
+    "rating": 4.9,
+    "reviewCount": 48,
+    "about": "Dr. Leyla Məmmədova 12 illik təcrübəyə malik klinik psixoloqdur. İxtisaslaşdığı sahə autizm spektr pozuntularıdır. ABŞ-da ABA terapiyası üzrə təlim keçmiş və Azərbaycanda bu sahədə bir çox uğurlu proqramlar həyata keçirmişdir.",
+    "education": [
+      "Bakı Dövlət Universiteti, Psixologiya, Bakalavr",
+      "İstanbul Universiteti, Klinik Psixologiya, Magistr",
+      "Harvard Tibb Məktəbi, Autizm Araşdırmaları, Sertifikat Proqramı"
+    ],
+    "certifications": [
+      "ABA Terapiya Sertifikatı",
+      "ADOS-2 Diaqnostika Sertifikatı",
+      "Sensori İnteqrasiya Terapiya Sertifikatı"
+    ],
+    "services": [
+      "Fərdi terapiya",
+      "Ailə məsləhətləşməsi",
+      "Erkən müdaxilə proqramı",
+      "Sosial bacarıqlar qrupu"
+    ],
+    "languages": ["Azərbaycan", "Türk", "İngilis", "Rus"],
+    "contactInfo": {
+      "email": "leyla.mammadova@example.com",
+      "phone": "+994 50 123 45 67",
+      "address": "Bakı şəhəri, Nəsimi rayonu, Nizami küçəsi 15"
+    },
+    "availability": {
+      "monday": "09:00 - 17:00",
+      "tuesday": "09:00 - 17:00",
+      "wednesday": "09:00 - 17:00",
+      "thursday": "09:00 - 17:00",
+      "friday": "09:00 - 15:00",
+      "saturday": null,
+      "sunday": null
+    },
+    "profileImageUrl": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?auto=format&fit=facearea&w=400&h=400&q=80&facepad=2",
+    "verified": true
+  },
+  {
+    "id": "specialist2",
+    "name": "Anar Hüseynov",
+    "title": "Loqoped",
+    "specialization": "Nitq və Dil İnkişafı",
+    "experience": 8,
+    "rating": 4.7,
+    "reviewCount": 36,
+    "about": "Anar Hüseynov 8 ildir ki, autizmli uşaqlarla işləyən peşəkar loqopeddir. O, nitq və dil inkişafı problemləri olan uşaqlar üçün fərdi proqramlar hazırlayır və tətbiq edir. Xüsusilə qeyri-verbal autizmli uşaqlar üçün alternativ kommunikasiya metodları üzrə ixtisaslaşmışdır.",
+    "education": [
+      "Azərbaycan Tibb Universiteti, Loqopediya, Bakalavr",
+      "Türkiyə Anadolu Universiteti, Xüsusi Təhsil, Magistr"
+    ],
+    "certifications": [
+      "PECS (Picture Exchange Communication System) Sertifikatı",
+      "Floortime Terapiya Sertifikatı",
+      "Oral Motor Terapiya Sertifikatı"
+    ],
+    "services": [
+      "Nitq terapiyası",
+      "Alternativ kommunikasiya",
+      "Erkən dil inkişafı",
+      "Qiymətləndirmə xidmətləri"
+    ],
+    "languages": ["Azərbaycan", "Türk", "İngilis"],
+    "contactInfo": {
+      "email": "anar.huseynov@example.com",
+      "phone": "+994 55 234 56 78",
+      "address": "Bakı şəhəri, Yasamal rayonu, Mətbuat prospekti 35"
+    },
+    "availability": {
+      "monday": "10:00 - 18:00",
+      "tuesday": "10:00 - 18:00",
+      "wednesday": null,
+      "thursday": "10:00 - 18:00",
+      "friday": "10:00 - 18:00",
+      "saturday": "10:00 - 14:00",
+      "sunday": null
+    },
+    "profileImageUrl": "https://images.unsplash.com/photo-1511367461989-f85a21fda167?auto=format&fit=facearea&w=400&h=400&q=80&facepad=2",
+    "verified": true 
+  },
+  {
+    "id": "specialist3",
+    "name": "Səbinə Əliyeva",
+    "title": "Məşğələ Terapisti",
+    "specialization": "Sensori İnteqrasiya",
+    "experience": 6,
+    "rating": 4.8,
+    "reviewCount": 29,
+    "about": "Səbinə Əliyeva məşğələ terapisti kimi autizmli uşaqların sensori ehtiyaclarını müəyyən etmək və onlara uyğun terapiya planları hazırlamaq üzrə ixtisaslaşmışdır. Onun sensori inteqrasiya terapiyası autizmli uşaqların gündəlik həyat bacarıqlarını inkişaf etdirməyə kömək edir.",
+    "education": [
+      "Ankara Universiteti, Məşğələ Terapiyası, Bakalavr",
+      "London Metropolitan Universiteti, Sağlamlıq Elmləri, Magistr"
+    ],
+    "certifications": [
+      "Sensori İnteqrasiya Sertifikatı",
+      "Motor Bacarıqlar Terapiya Sertifikatı",
+      "Pediatrik Məşğələ Terapiyası Sertifikatı"
+    ],
+    "services": [
+      "Sensori inteqrasiya terapiyası",
+      "Motor bacarıqların inkişafı",
+      "Gündəlik həyat bacarıqları təlimi",
+      "Oyun terapiyası"
+    ],
+    "languages": ["Azərbaycan", "İngilis", "Rus"],
+    "contactInfo": {
+      "email": "sabina.aliyeva@example.com",
+      "phone": "+994 70 345 67 89",
+      "address": "Bakı şəhəri, Binəqədi rayonu, Azadlıq prospekti 76"
+    },
+    "availability": {
+      "monday": "09:00 - 16:00",
+      "tuesday": "09:00 - 16:00",
+      "wednesday": "09:00 - 16:00",
+      "thursday": null,
+      "friday": "09:00 - 16:00",
+      "saturday": "10:00 - 13:00",
+      "sunday": null
+    },
+    "profileImageUrl": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?auto=format&fit=facearea&w=400&h=400&q=80&facepad=2",
+    "verified": true
+  },
+  {
+    "id": "specialist4",
+    "name": "Elşən Quliyev",
+    "title": "Xüsusi Təhsil Mütəxəssisi",
+    "specialization": "Akademik Bacarıqlar",
+    "experience": 10,
+    "rating": 4.6,
+    "reviewCount": 42,
+    "about": "Elşən Quliyev 10 ildən artıq autizmli uşaqların təhsili sahəsində təcrübəyə malikdir. O, fərdi təhsil planları hazırlayır və uşaqların akademik bacarıqlarının inkişafına töhfə verir. İnklüziv təhsil üzrə bir sıra layihələrdə iştirak etmişdir.",
+    "education": [
+      "Azərbaycan Dövlət Pedaqoji Universiteti, Xüsusi Təhsil, Bakalavr",
+      "Varşava Universiteti, Xüsusi Təhsil, Magistr"
+    ],
+    "certifications": [
+      "İnklüziv Təhsil Sertifikatı",
+      "Strukturlaşdırılmış Təhsil Metodları Sertifikatı",
+      "Fərdi Təhsil Planlaması Sertifikatı"
+    ],
+    "services": [
+      "Fərdi təhsil planı hazırlanması",
+      "Akademik bacarıqların inkişafı",
+      "Məktəb hazırlığı",
+      "Təhsil məsləhətləşməsi"
+    ],
+    "languages": ["Azərbaycan", "İngilis", "Rus", "Polyak"],
+    "contactInfo": {
+      "email": "elshan.guliyev@example.com",
+      "phone": "+994 77 456 78 90",
+      "address": "Bakı şəhəri, Səbail rayonu, Badamdar qəsəbəsi, Səməd Vurğun küçəsi 12"
+    },
+    "availability": {
+      "monday": "10:00 - 17:00",
+      "tuesday": "10:00 - 17:00",
+      "wednesday": "10:00 - 17:00",
+      "thursday": "10:00 - 17:00",
+      "friday": null,
+      "saturday": null,
+      "sunday": null
+    },
+    "profileImageUrl": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=facearea&w=400&h=400&q=80&facepad=2",
+    "verified": true
+  },
+  {
+    "id": "specialist5",
+    "name": "Nigar Həsənova",
+    "title": "Uşaq Psixoloqu",
+    "specialization": "Davranış İdarəetməsi",
+    "experience": 7,
+    "rating": 4.5,
+    "reviewCount": 31,
+    "about": "Nigar Həsənova 7 illik təcrübəyə malik uşaq psixoloqudur. O, davranış problemləri olan autizmli uşaqlar üçün idarəetmə strategiyaları hazırlayır. Həmçinin ailələrlə işləyərək evdə tətbiq edilə bilən pozitiv davranış müdaxilələri öyrədir.",
+    "education": [
+      "Xəzər Universiteti, Psixologiya, Bakalavr",
+      "Berlin Humboldt Universiteti, Uşaq Psixologiyası, Magistr"
+    ],
+    "certifications": [
+      "Pozitiv Davranış Müdaxilə Sertifikatı",
+      "Koqnitiv-Davranış Terapiyası Sertifikatı",
+      "Ailə Terapiyası Sertifikatı"
+    ],
+    "services": [
+      "Davranış qiymətləndirməsi",
+      "Davranış idarəetmə planı",
+      "Ailə təlimi",
+      "Emosional tənzimləmə"
+    ],
+    "languages": ["Azərbaycan", "Türk", "İngilis", "Alman"],
+    "contactInfo": {
+      "email": "nigar.hasanova@example.com",
+      "phone": "+994 51 567 89 01",
+      "address": "Bakı şəhəri, Nərimanov rayonu, Əhməd Rəcəbli küçəsi 5"
+    },
+    "availability": {
+      "monday": null,
+      "tuesday": "09:00 - 18:00",
+      "wednesday": "09:00 - 18:00",
+      "thursday": "09:00 - 18:00",
+      "friday": "09:00 - 18:00",
+      "saturday": "10:00 - 15:00",
+      "sunday": null
+    },
+    "profileImageUrl": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=facearea&w=400&h=400&q=80&facepad=2",
+    "verified": true 
+  }
+] 
